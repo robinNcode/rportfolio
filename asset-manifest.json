@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.206612ab.css",
-    "main.js": "./static/js/main.0ea01615.js",
-    "static/js/770.20a20a08.chunk.js": "./static/js/770.20a20a08.chunk.js",
-    "static/js/453.d225f0ab.chunk.js": "./static/js/453.d225f0ab.chunk.js",
-    "static/media/moment1.jpg": "./static/media/moment1.78c2443205ce91fd9a76.jpg",
-    "static/media/moment2.jpg": "./static/media/moment2.ffd22c03bb5215eff5c5.jpg",
-    "static/media/moment3.jpg": "./static/media/moment3.034ae94d1df7d08febc7.jpg",
-    "static/media/moment4.jpg": "./static/media/moment4.1eecbd11a800bd0dcd20.jpg",
-    "static/media/formal_village.jpg": "./static/media/formal_village.eb91677051f5f35102ed.jpg",
-    "static/media/rentals.png": "./static/media/rentals.beb4b840efc93926af77.png",
-    "static/media/pcms.png": "./static/media/pcms.3696e1c1fb227a6ee4ef.png",
-    "static/media/Resume_of_MsM_Robin_2025_03_04.pdf": "./static/media/Resume_of_MsM_Robin_2025_03_04.aa1dbc447b4a08bc606e.pdf",
-    "static/media/ptms.png": "./static/media/ptms.68b551740a9a6651aa95.png",
-    "static/media/home-bg.jpg": "./static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "index.html": "./index.html",
-    "static/media/pre.svg": "./static/media/pre.1ae18671ff4ddc442314.svg",
-    "main.206612ab.css.map": "./static/css/main.206612ab.css.map",
-    "main.0ea01615.js.map": "./static/js/main.0ea01615.js.map",
-    "770.20a20a08.chunk.js.map": "./static/js/770.20a20a08.chunk.js.map",
-    "453.d225f0ab.chunk.js.map": "./static/js/453.d225f0ab.chunk.js.map"
+    "main.css": "/rportfolio/static/css/main.6cfb3f49.css",
+    "main.js": "/rportfolio/static/js/main.118242e4.js",
+    "static/js/770.20a20a08.chunk.js": "/rportfolio/static/js/770.20a20a08.chunk.js",
+    "static/js/453.d225f0ab.chunk.js": "/rportfolio/static/js/453.d225f0ab.chunk.js",
+    "static/media/moment1.jpg": "/rportfolio/static/media/moment1.78c2443205ce91fd9a76.jpg",
+    "static/media/moment2.jpg": "/rportfolio/static/media/moment2.ffd22c03bb5215eff5c5.jpg",
+    "static/media/moment3.jpg": "/rportfolio/static/media/moment3.034ae94d1df7d08febc7.jpg",
+    "static/media/moment4.jpg": "/rportfolio/static/media/moment4.1eecbd11a800bd0dcd20.jpg",
+    "static/media/formal_village.jpg": "/rportfolio/static/media/formal_village.eb91677051f5f35102ed.jpg",
+    "static/media/rentals.png": "/rportfolio/static/media/rentals.beb4b840efc93926af77.png",
+    "static/media/pcms.png": "/rportfolio/static/media/pcms.3696e1c1fb227a6ee4ef.png",
+    "static/media/Resume_of_MsM_Robin_2025_03_04.pdf": "/rportfolio/static/media/Resume_of_MsM_Robin_2025_03_04.aa1dbc447b4a08bc606e.pdf",
+    "static/media/ptms.png": "/rportfolio/static/media/ptms.68b551740a9a6651aa95.png",
+    "static/media/home-bg.jpg": "/rportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/rportfolio/index.html",
+    "static/media/pre.svg": "/rportfolio/static/media/pre.1ae18671ff4ddc442314.svg",
+    "main.6cfb3f49.css.map": "/rportfolio/static/css/main.6cfb3f49.css.map",
+    "main.118242e4.js.map": "/rportfolio/static/js/main.118242e4.js.map",
+    "770.20a20a08.chunk.js.map": "/rportfolio/static/js/770.20a20a08.chunk.js.map",
+    "453.d225f0ab.chunk.js.map": "/rportfolio/static/js/453.d225f0ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.206612ab.css",
-    "static/js/main.0ea01615.js"
+    "static/css/main.6cfb3f49.css",
+    "static/js/main.118242e4.js"
   ]
 }
