@@ -1,7 +1,7 @@
 {
-  "homepage": "https://robinncode.github.io/react_portfolio/",
+  "homepage": "https://robinncode.github.io/rportfolio/",
   "name": "msmrobin_portfolio",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
